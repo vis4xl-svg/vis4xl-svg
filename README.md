@@ -1,32 +1,30 @@
 <div align="center">
 
-# 👋 Hi, I'm Vishal
+<h1>👋 Hi, I'm Vishal</h1>
 
-### `VIS4XL` — Security • Code • VFX • Creativity
+<h3><code>VIS4XL</code> — Security • Code • VFX • Creativity</h3>
 
 <p>
-<a href="https://github.com/vis4xl-svg">
-<img src="https://img.shields.io/badge/GitHub-vis4xl--svg-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="mailto:vis4xl@gmail.com">
-<img src="https://img.shields.io/badge/Email-vis4xl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/vishal-rajput-b9093a36b">
-<img src="https://img.shields.io/badge/LinkedIn-Vishal%20Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/vis4xl">
-<img src="https://img.shields.io/badge/Instagram-vis4xl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/c/vis4xl">
-<img src="https://img.shields.io/badge/YouTube-vis4xl-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+  <a href="https://github.com/vis4xl-svg">
+    <img src="https://img.shields.io/badge/GitHub-VIS4XL--SVG-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:vis4xl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-VIS4XL-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vishal-rajput-b9093a36b">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Rajput-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/vis4xl">
+    <img src="https://img.shields.io/badge/Instagram-VIS4XL-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/vis4xl">
+    <img src="https://img.shields.io/badge/YouTube-VIS4XL-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6f42c1,100:00d9ff&height=120&section=header" width="100%" />
 
 </div>
-
----
 
 ## 🧠 About Me
 
