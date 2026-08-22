@@ -112,13 +112,17 @@ I enjoy working where **technology, security and creativity intersect**.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vis4xl-svg&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a970ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" height="180"/>
+<a href="https://github.com/vis4xl-svg">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vis4xl-svg&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+</a>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=vis4xl-svg&hide_border=true&background=0D1117&ring=A970FF&fire=00D9FF&currStreakLabel=A970FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="180"/>
+<a href="https://github.com/vis4xl-svg">
+  <img height="180" src="https://streak-stats.demolab.com/?user=vis4xl-svg&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -126,11 +130,22 @@ I enjoy working where **technology, security and creativity intersect**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vis4xl-svg&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=a970ff&text_color=c9d1d9" height="180"/>
+<a href="https://github.com/vis4xl-svg">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=vis4xl-svg&theme=tokyo-night&hide_border=true&area=true&custom_title=VIS4XL%20Contribution%20Activity" />
+</a>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<a href="https://github.com/vis4xl-svg">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vis4xl-svg&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</a>
+
+</div>
+
 
 # 📈 Contribution Activity
 
